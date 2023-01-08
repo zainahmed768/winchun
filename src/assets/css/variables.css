@@ -1,0 +1,14 @@
+/* variables starts here */
+:root {
+  /* font variables starts here */
+  --global-font: "poppins";
+  /* font variables ends here */
+  /* color variables starts here */
+  --accent-color-1: #0f103d;
+  --accent-color-2: #06071b;
+  --accent-color-3: #181a63;
+  --body-color: #0d0d33;
+  --default-font-color: #fff;
+  /* color variables ends here */
+}
+/* variables ends here */
